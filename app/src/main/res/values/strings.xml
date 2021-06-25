@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Segundo Parcial</string>
+    <string-array name="valueSpinner">
+        <item>Supervisor</item>
+        <item>Constructor</item>
+    </string-array>
+</resources>

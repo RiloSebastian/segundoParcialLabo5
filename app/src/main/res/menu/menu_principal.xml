@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mAgregarUsuario"
+        android:icon="@drawable/ic_person_add_24"
+        app:showAsAction="always"
+        android:title="Agregar Contacto"></item>
+    <item
+        android:id="@+id/mFiltrarUsuario"
+        android:title="Filtrar Contactos"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"></item>
+
+</menu>
